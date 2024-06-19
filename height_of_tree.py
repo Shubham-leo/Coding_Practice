@@ -39,3 +39,9 @@ if __name__ == "__main__":
     root.child[3].child[2].child.append(new_node('L'))
 
     print(depth_of_tree(root))
+
+
+'''
+Time complexity: O(n)
+Auxiliary Space: O(n)
+'''
